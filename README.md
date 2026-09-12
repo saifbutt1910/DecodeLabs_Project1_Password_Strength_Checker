@@ -33,3 +33,20 @@ The program checks:
 
 **DecodeLabs — Cyber Security Internship**  
 Project 1: Password Strength Checker
+
+## Example Output
+
+Password Strength Checker
+-------------------------
+Enter your password: Hello123!
+
+Password checks:
+Length (8+): True
+Uppercase: True
+Number: True
+Symbol: True
+
+Score: 4 / 4
+
+Result: Strong
+Good job! Your password meets all four security checks.
